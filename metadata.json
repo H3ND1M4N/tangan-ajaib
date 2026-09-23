@@ -1,0 +1,6 @@
+{
+  "name": "Game PAI SD - MediaPipe Gestur Tangan",
+  "description": "Game edukasi interaktif mencocokkan soal dan jawaban materi Pendidikan Agama Islam (PAI) SD berbasis deteksi gerakan tangan Google MediaPipe.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
